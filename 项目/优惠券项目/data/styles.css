@@ -60,6 +60,9 @@
 }
 .line {
 }
+.sticky_3 {
+  text-align:left;
+}
 .box_2 {
 }
 .box_3 {
@@ -79,4 +82,7 @@
   color:#FFFFFF;
 }
 .icon {
+}
+.marker {
+  color:#FFFFFF;
 }
