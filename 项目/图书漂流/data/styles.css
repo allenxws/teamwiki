@@ -93,6 +93,8 @@
 }
 .line {
 }
+.arrow {
+}
 .text_field {
   color:#000000;
   text-align:left;
@@ -114,8 +116,8 @@
 .button {
 }
 .flat_button {
-  font-family:'Roboto';
-  font-weight:400;
+  font-family:'Roboto Regular', 'Roboto';
+  font-weight:500;
   font-style:normal;
   font-size:14px;
   color:#2196F3;
